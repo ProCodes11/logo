@@ -1,0 +1,44 @@
+.logo{
+	font-size: 50px;
+	text-decoration: none;
+	color: red; 
+	margin-right: 655px;
+}
+.logo .fa-cuttlefish{
+	color: black;
+	margin-right: 13px;
+}
+.logo span{
+	color: black;
+}
+.logo2 svg{
+	width: 100px; 
+	height: 100px;
+	position: relative;
+	background: #E42020;
+}
+.logo2 h2{
+	position: absolute;
+	margin-top: -45px;
+	margin-left: 20px;
+	color: white;
+	
+}
+.logo2{
+	padding: 15px;
+}
+.vav{
+	display: flex;
+	justify-content: center;
+	background: #90C6FD;
+	margin-left: 20px;
+	padding: 15px;
+}
+.vav .ka{
+	font-size: 60px;
+	margin-right: 14px;
+	margin-left: 14px;
+	text-decoration: none;
+	color: #F56C6C;
+
+}
